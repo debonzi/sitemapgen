@@ -1,0 +1,9 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for l in links %}
+    <url>
+        <loc>
+            {{ l }}
+        </loc>
+    </url>
+    {% endfor %}
+</urlset>

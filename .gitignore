@@ -1,0 +1,4 @@
+.idea/
+.venv/
+SiteMapGen.egg-info/
+*.pyc
